@@ -1,6 +1,6 @@
 # Routing Protocols
 
-This is a GNS3 project with the architecture for the study of the following routing protocols: RIP, EIGRP, OSPF and BGP.
+This is a GNS3 project for the study of the following routing protocols: RIP, EIGRP, OSPF and BGP.
 It also has configurations for DHCP and NAT.
 
 ### Project snapshot
@@ -17,6 +17,9 @@ Slots: WIC-2T
 PCs (VPCS)
 
 Ehternet Switches (default)
+
+### Documentation
+Accompanying documentation describing commands is provided. It contains a brief explanation of the protocols and their commands, caveats and configurations.
 
 ### How to use
 Import the project in your GNS3 version 1.5 or newer through File -> Import portable project...
