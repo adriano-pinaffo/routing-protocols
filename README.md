@@ -34,7 +34,7 @@ Keith Barker from CBT Nuggets, Ryan Lindfield, Vambar, David Bombal, and others
 
 ### Lincence and bug reporting
 
-Enjoy and report bugs to https://github.com/adriano-pinaffo/routing-protocols/
+Enjoy and report bugs to https://github.com/adriano-pinaffo/routing-protocols/issues
 
 This is a free project to be used as you like as long as you abide by CC0-1.0.
 https://choosealicense.com/licenses/cc0-1.0/
