@@ -22,7 +22,7 @@ Ehternet Switches (default)
 Accompanying documentation describing commands is provided. It contains a brief explanation of the protocols and their commands, caveats and configurations.
 
 ### How to use
-Import the project in your GNS3 version 1.5 or newer through File -> Import portable project...
+Import the routing-protocols.gns3project file into your GNS3 version 1.5 or newer through File -> Import portable project...
 
 ### Known issues
 2 images of IOSv were used. First, vios-adventerprisek9-m.vmdk.SPA.156-1.T was used for RIP and EIGRP blocks, but it has an identified bug that was fixed in version vios-adventerprisek9-m.vmdk.SPA.156-2.T. When the router is reboot the interfaces come back in shutdown mode, so it's necessary to manually bring them up. Once this was realized, OSPF block was created with the fixed version, but I haven't went back to fix RIP and EIGRP, forcing me to bring the interfaces up every time I restart the router. The file .gns3 can probably be changed to have the newer configuration but that was not tested yet.
